@@ -1,0 +1,21 @@
+{
+  "short_name": "Heli-Game",
+  "name": "Chinook Touch",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/User/Repo@main/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/dmvled-coder/gamemaybay@main/m%C3%A1y%20bay%20Chinook%201%20PNG.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#001a33"
+}
